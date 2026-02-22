@@ -21,7 +21,7 @@ I build and tune RC cars and FPV drones, and I like connecting low level hardwar
 - Email: faisal.shariff@sjsu.edu
 
 ## Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/faisal-shariff-3b7215328/)]
+[LinkedIn]([https://www.linkedin.com/in/faisal-shariff-3b7215328/])
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
