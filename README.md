@@ -31,7 +31,5 @@ I build and tune RC cars and FPV drones, and I like connecting low level hardwar
 ![SQL](https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-## Technologies
-<!-- badges like his go here -->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
